@@ -1,0 +1,23 @@
+h1{
+    text-align: center;
+    text-decoration: underline;
+    color: white;
+}
+p{
+    font-size: 26px;
+    color: white;
+}
+
+body{
+    background-color: gray;
+    
+}
+
+a{
+    font-size: 26px;
+    text-align: center;
+}
+img{
+    width: 400px;
+    margin: 0px 0px 0px 400px;
+}
